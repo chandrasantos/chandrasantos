@@ -34,37 +34,37 @@
 
 ## Soft Skills: 
 
-🗃️ organização •
+🗃️ organização 
 
-🔎​ atenção aos detalhes •
+🔎​ atenção aos detalhes 
 
-🧠raciocínio ágil •
+🧠raciocínio ágil 
 
-🔦foco •
+🔦foco 
 
-🧮facilidade de identificar padrões •
+🧮facilidade de identificar padrões 
 
-🦉capacidade analítica e crítica •
+🦉capacidade analítica e crítica 
 
-📚estudo auto dirigido •
+📚estudo auto dirigido 
 
-🦾flexibilidade •
+🦾flexibilidade 
 
-💡 criatividade •
+💡 criatividade 
 
-📈perseverança •
+📈perseverança 
 
-⚠️prudência •
+⚠️prudência 
 
-👨🏻‍🔬curiosidade •
+👨🏻‍🔬curiosidade 
 
-🔡facilidade de argumentação •
+🔡facilidade de argumentação 
 
-🖖comunicação •
+🖖comunicação 
 
 ## Hard Skills:
 
-## Estou aprendendo
+# Estou aprendendo
 
 <img src="" height="40"/> 
 
