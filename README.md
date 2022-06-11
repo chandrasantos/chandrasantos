@@ -3,7 +3,7 @@
 👩‍💻​ Sou Chandra Santos e estou em transição de carreira 🛫
 
 
-### Tenho interesse em:
+## Tenho interesse em:
 
 👩🏽‍🔬 Data Science
 
@@ -22,7 +22,7 @@
 
 ## Atualmente me dedico aos estudos para me formar em agosto de 2022 como analista de dados jr. e em pretendo continuar aprendendo para trabalhar futuramente com Big Data como Engenheira de Dados.
 
-### Formação:
+## Formação:
 
 📚👨🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas Estácio,2024
 
@@ -32,7 +32,7 @@
 
 🎓Bacharel em Comunicação Social/Jornalismo Estácio, 2011
 
-### Soft Skills: 
+## Soft Skills: 
 
 🗃️ organização •
 
@@ -62,13 +62,13 @@
 
 🖖comunicação •
 
-### Hard Skills:
+## Hard Skills:
 
-### Estou aprendendo
+## Estou aprendendo
 
-<img src="https://drive.google.com/file/d/1TUCN7XgqioQQJPfcCx_esXBIDwJ70YC1/view?usp=sharing" width="40" height="40"/> 
+<img src="" height="40"/> 
 
-### Contatos:
+## Contatos:
 
 <div>
 <a href="https://www.youtube.com/ChandraSantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
