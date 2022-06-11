@@ -64,7 +64,7 @@
 
 ## Hard Skills:
 
-# Estou aprendendo
+Estou aprendendo
 
 <img src="" height="40"/> 
 
