@@ -22,10 +22,7 @@
 
 🌐 Big Data
 
-## "Nossa, mas, você vai fazer tudo isso?
-
-<div><img src="https://miro.medium.com/max/1080/1*-qdg0Nd6fJCMB3VAkZ_Xsg.png" width="400" height="400"></div>
-
+# "Nossa, mas, você vai fazer tudo isso?
 
 ## Atualmente estudo para estar apta ao cargo de analista de dados jr. 
 <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2ev-QB9hsMsbsw7MFQas2ykrDa6tx99_MA&usqp=CAU"></div>
