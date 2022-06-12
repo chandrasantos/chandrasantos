@@ -76,7 +76,7 @@
 ## Hard Skills:
 
 Estou aprendendo:
-
+<div><img src="https://media1.giphy.com/media/rHzSn4U4BPemY/giphy.gif?cid=790b7611bd270df60c2c32a831d1f8ae689d5d1d5aedd718&rid=giphy.gif&ct=g"></div>
 
           
 Já tenho experiência:
@@ -84,7 +84,7 @@ Já tenho experiência:
 <div><img src="https://media1.giphy.com/media/1dMNqVx9Kb12EBjFrc/giphy.gif?cid=790b7611de7ee8babd49ae29f3688ce34bd4f4ca2a58365a&rid=giphy.gif&ct=g"></div>
 
 ## Contatos:
-
+<div><img src="https://media1.giphy.com/media/pO3cIQ9xd3tk6IImzl/giphy.gif?cid=790b7611e8de9754ae9682baef79e6fd2f591ae141469b39&rid=giphy.gif&ct=g"></div>
 <div>
 <a href="https://www.youtube.com/ChandraSantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
