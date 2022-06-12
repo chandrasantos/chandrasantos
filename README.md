@@ -26,7 +26,7 @@
 
 <div><img src="https://media1.giphy.com/media/elUVD4TyYlGuX3RwI6/giphy.gif?cid=790b761128d7ff243316fdd28082f80ced182599512d99d7&rid=giphy.gif&ct=g"></div>
 
-## Atualmente estou apta para trabalhar com análise de dados 
+## Atualmente estou apta para trabalhar com análise de dados e business intelligence
 <div><img src="https://media4.giphy.com/media/fQAkqiwIRcy12E2dZj/giphy.gif?cid=790b7611396a364c65256802a0fbe089020b4f2a7d69ed8a&rid=giphy.gif&ct=g"></div>
 
 ## Vou continuar estudando para trabalhar com Engenharia de dados. 
