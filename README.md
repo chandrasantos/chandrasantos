@@ -1,6 +1,6 @@
 # Hello World! 🗺 #
 
-👩‍💻​ Sou Chandra Santos e estou em transição de carreira #🛫#
+👩‍💻​ Sou Chandra Santos e estou em transição de carreira # 🛫 #
 
 
 ## Tenho interesse em:
