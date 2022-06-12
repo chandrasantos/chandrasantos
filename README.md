@@ -24,9 +24,10 @@
 <div><img src="https://miro.medium.com/max/1080/1*-qdg0Nd6fJCMB3VAkZ_Xsg.png" width="400" height="400"></div>
 
 
-## Atualmente me dedico aos estudos para me formar em agosto de 2022 como analista de dados jr. e em pretendo continuar aprendendo para trabalhar futuramente com Big Data como Engenheira de Dados.
-
+## Atualmente estudo para estar apta ao cargo de analista de dados jr. 
 <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2ev-QB9hsMsbsw7MFQas2ykrDa6tx99_MA&usqp=CAU"></div>
+
+## Futuramente pretendo continuar aprendendo para trabalhar com Big Data como Engenheira de Dados.
 
 <div><img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2017/06/p7p9i.jpg"></div>
 
