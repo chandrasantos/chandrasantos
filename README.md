@@ -49,7 +49,8 @@
 
 🎓Bacharel em Comunicação Social/Jornalismo Estácio, 2011
 
-
+E várias outras certificações que estão no meu Linkedin:
+<div><a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
 ## Soft Skills:
 
@@ -95,17 +96,16 @@ Estou aprendendo:
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"></div>
 <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="100" height="100"></div>
-    
+
+Estou aprendendo também Google Colab, Power BI, Google Data Studio.
                     
           
 Já tenho experiência:
 <div><img src="https://media1.giphy.com/media/1dMNqVx9Kb12EBjFrc/giphy.gif?cid=790b7611de7ee8babd49ae29f3688ce34bd4f4ca2a58365a&rid=giphy.gif&ct=g"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" height="100"></div>
-            
-    
-            
-          
+
+Tenho conhecimento intermediário a avançado de Google Sheets e Excel.      
 
 ## Entre em contato:
 <div><img src="https://media1.giphy.com/media/pO3cIQ9xd3tk6IImzl/giphy.gif?cid=790b7611e8de9754ae9682baef79e6fd2f591ae141469b39&rid=giphy.gif&ct=g"></div>
