@@ -83,13 +83,14 @@
 
 Estou aprendendo:
 <div><img src="https://media1.giphy.com/media/rHzSn4U4BPemY/giphy.gif?cid=790b7611bd270df60c2c32a831d1f8ae689d5d1d5aedd718&rid=giphy.gif&ct=g"></div>
-
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /></div>
 
 <div><img src="https://media-exp2.licdn.com/dms/image/C5622AQFrOkXrHDbs7Q/feedshare-shrink_800/0/1652800489384?e=1657756800&v=beta&t=BllqBuN4EGrsSrbxQSJGhjLIMrdH0pUq4A7I_o7X9us" width="400" height="200"></div>
           
 Já tenho experiência:
-
 <div><img src="https://media1.giphy.com/media/1dMNqVx9Kb12EBjFrc/giphy.gif?cid=790b7611de7ee8babd49ae29f3688ce34bd4f4ca2a58365a&rid=giphy.gif&ct=g"></div>
+<div><img src=""></div>
+
 
 ## Contatos:
 <div><img src="https://media1.giphy.com/media/pO3cIQ9xd3tk6IImzl/giphy.gif?cid=790b7611e8de9754ae9682baef79e6fd2f591ae141469b39&rid=giphy.gif&ct=g"></div>
