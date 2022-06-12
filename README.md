@@ -65,8 +65,13 @@
 ## Hard Skills:
 
 Estou aprendendo
-<i class="devicon-azure-plain-wordmark colored"></i>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img src="<i class="devicon-azure-plain-wordmark colored"></i>" width="40" height="40"/> 
+
           
+Já tenho experiência
+
+
 
 ## Contatos:
 
