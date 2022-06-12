@@ -65,8 +65,8 @@
 ## Hard Skills:
 
 Estou aprendendo
-
-<img src="" height="40"/> 
+<i class="devicon-azure-plain-wordmark colored"></i>
+          
 
 ## Contatos:
 
