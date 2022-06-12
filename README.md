@@ -22,7 +22,7 @@
 
 🌐 Big Data
 
-# "Nossa, mas, você vai fazer tudo isso?
+# "Nossa, mas, você vai fazer tudo isso?"
 
 <div><img src="https://media1.giphy.com/media/elUVD4TyYlGuX3RwI6/giphy.gif?cid=790b761128d7ff243316fdd28082f80ced182599512d99d7&rid=giphy.gif&ct=g"></div>
 
