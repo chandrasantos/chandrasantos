@@ -5,7 +5,7 @@
 <div><img src="https://media3.giphy.com/media/1xnet4TCS2iYypSR2a/giphy.gif?cid=790b76115d4c3545f108421b705f13b82852722d3cd3cd1e&rid=giphy.gif&ct=g"></div>
 
 
-## Tenho interesse em:
+# Tenho interesse em:
 <div><img src="https://media1.giphy.com/media/UoYqxidgzAGygqo1Q2/giphy.gif?cid=790b76115b6c6d7af7067185f7e547fd2740f0949abf9310&rid=giphy.gif&ct=g"></div>
 
 👩🏽‍🔬 Data Science
@@ -39,7 +39,7 @@
 <div><img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2017/06/p7p9i.jpg" width="400" height="200"></div>
 
 
-## Formação:
+# Formação:
 
 📚👨🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas Estácio,2024
 
@@ -52,7 +52,7 @@
 E várias outras certificações que estão no meu Linkedin:
 <div><a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
-## Soft Skills:
+# Soft Skills:
 
 <div><img src="https://media0.giphy.com/media/TvXwdYI205i4E/giphy.gif?cid=790b7611a525ef4c3310e5d91185c3d8df23e7b72cd52859&rid=giphy.gif&ct=g"></div>
 
@@ -84,9 +84,9 @@ E várias outras certificações que estão no meu Linkedin:
 
 🖖comunicação 
 
-## Hard Skills:
+# Hard Skills:
 
-Estou aprendendo:
+## Estou aprendendo:
 <div><img src="https://media1.giphy.com/media/rHzSn4U4BPemY/giphy.gif?cid=790b7611bd270df60c2c32a831d1f8ae689d5d1d5aedd718&rid=giphy.gif&ct=g"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="100" height="100"/></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="100" height="100"></div>
@@ -100,14 +100,14 @@ Estou aprendendo:
 Estou aprendendo também Google Colab, Power BI, Google Data Studio.
                     
           
-Já tenho experiência:
+## Já tenho experiência:
 <div><img src="https://media1.giphy.com/media/1dMNqVx9Kb12EBjFrc/giphy.gif?cid=790b7611de7ee8babd49ae29f3688ce34bd4f4ca2a58365a&rid=giphy.gif&ct=g"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" height="100"></div>
 
 Tenho conhecimento intermediário a avançado de Google Sheets e Excel.      
 
-## Entre em contato:
+# Entre em contato:
 <div><img src="https://media1.giphy.com/media/pO3cIQ9xd3tk6IImzl/giphy.gif?cid=790b7611e8de9754ae9682baef79e6fd2f591ae141469b39&rid=giphy.gif&ct=g"></div>
 <div>
 <a href="https://www.youtube.com/ChandraSantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
