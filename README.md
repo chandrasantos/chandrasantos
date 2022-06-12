@@ -12,7 +12,7 @@
 
 📊 Data Analysis
 
-💹 Bussiness Inteligence
+💹 Business Inteligence
 
 ​🔐​ Data Security
 
