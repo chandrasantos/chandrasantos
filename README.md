@@ -88,7 +88,7 @@ E várias outras certificações que estão no meu Linkedin:
 
 Estou aprendendo:
 <div><img src="https://media1.giphy.com/media/rHzSn4U4BPemY/giphy.gif?cid=790b7611bd270df60c2c32a831d1f8ae689d5d1d5aedd718&rid=giphy.gif&ct=g"></div>
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="200" height="100"/></div>
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="100" height="100"/></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100"></div>
