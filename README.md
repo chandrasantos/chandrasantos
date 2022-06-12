@@ -26,7 +26,7 @@
 
 <div><img src="https://media1.giphy.com/media/elUVD4TyYlGuX3RwI6/giphy.gif?cid=790b761128d7ff243316fdd28082f80ced182599512d99d7&rid=giphy.gif&ct=g"></div>
 
-## Atualmente estou apta para trabalhar com análise de dados e business intelligence
+## Atualmente estou apta para trabalhar com análise de dados e business intelligence.
 <div><img src="https://media4.giphy.com/media/fQAkqiwIRcy12E2dZj/giphy.gif?cid=790b7611396a364c65256802a0fbe089020b4f2a7d69ed8a&rid=giphy.gif&ct=g"></div>
 
 ## Vou continuar estudando para trabalhar com Engenharia de dados. 
@@ -35,19 +35,19 @@
 ## Vou continuar estudando para trabalhar com Machine Learning. 
 <div><img src="https://media4.giphy.com/media/DwrnYsZCXspu8/giphy.gif?cid=790b7611c9413a159aadfe3e502eee869ed635e3ec84786c&rid=giphy.gif&ct=g"></div>
 
-## Vou continuar estudando para trabalhar com Big Data 
+## Vou continuar estudando para trabalhar com Big Data. 
 <div><img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2017/06/p7p9i.jpg" width="400" height="200"></div>
 
 
 # Formação:
 
-📚👨🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas Estácio,2024
+📚👨🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas - Estácio,2024
 
-📚👨🏻‍🎓 Cursando Certificação em Análise de Dados Laboratoria/IBM, 2022
+📚👨🏻‍🎓 Cursando Certificação em Análise de Dados - Laboratoria/IBM, 2022
 
-🎓Pós-Graduada Especialista em Marketing e Design Digital Escola Superior de Propaganda e Marketing, 2015
+🎓Pós-Graduada Especialista em Marketing e Design Digital - Escola Superior de Propaganda e Marketing, 2015
 
-🎓Bacharel em Comunicação Social/Jornalismo Estácio, 2011
+🎓Bacharel em Comunicação Social/Jornalismo - Estácio, 2011
 
 E várias outras certificações que estão no meu Linkedin:
 <div><a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
