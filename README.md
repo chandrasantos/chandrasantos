@@ -24,13 +24,15 @@
 
 # "Nossa, mas, você vai fazer tudo isso?
 
-## Atualmente estudo para estar apta ao cargo de analista de dados jr. 
+<div><img src="https://media1.giphy.com/media/elUVD4TyYlGuX3RwI6/giphy.gif?cid=790b761128d7ff243316fdd28082f80ced182599512d99d7&rid=giphy.gif&ct=g"></div>
+
+## Atualmente estou apta para trabalhar com análise de dados 
+<div><img src="https://media4.giphy.com/media/fQAkqiwIRcy12E2dZj/giphy.gif?cid=790b7611396a364c65256802a0fbe089020b4f2a7d69ed8a&rid=giphy.gif&ct=g"></div>
+
+## Vou continuar estudando para trabalhar com Engenharia de dados. 
 <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2ev-QB9hsMsbsw7MFQas2ykrDa6tx99_MA&usqp=CAU"></div>
 
-## Vou continuar aprendendo para trabalhar com Engenharia de dados. 
-<div><img src=""></div>
-
-## Vou continuar aprendendo para trabalhar com Machine Learning. 
+## Vou continuar estudando para trabalhar com Machine Learning. 
 <div><img src="https://media4.giphy.com/media/DwrnYsZCXspu8/giphy.gif?cid=790b7611c9413a159aadfe3e502eee869ed635e3ec84786c&rid=giphy.gif&ct=g"></div>
 
 ## Vou continuar estudando para trabalhar com Big Data 
@@ -93,8 +95,7 @@ Estou aprendendo:
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"></div>
 <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="100" height="100"></div>
-                        
-          
+    
                     
           
 Já tenho experiência:
@@ -102,11 +103,11 @@ Já tenho experiência:
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" height="100"></div>
             
-          
+    
             
           
 
-## Contatos:
+## Entre em contato:
 <div><img src="https://media1.giphy.com/media/pO3cIQ9xd3tk6IImzl/giphy.gif?cid=790b7611e8de9754ae9682baef79e6fd2f591ae141469b39&rid=giphy.gif&ct=g"></div>
 <div>
 <a href="https://www.youtube.com/ChandraSantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
