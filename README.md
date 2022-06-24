@@ -87,7 +87,7 @@ E várias outras certificações que estão no meu Linkedin:
 # Hard Skills:
 
 ## Estou aprendendo:
-<div><iframe src="https://giphy.com/embed/yv1ggi3Cbase05a8iS" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunes-cat-looney-tunes-sylvester-yv1ggi3Cbase05a8iS">via GIPHY</a></p></div>
+<div><img src="https://media0.giphy.com/media/yv1ggi3Cbase05a8iS/giphy.gif?cid=ecf05e47s2omu1o03sp8egl9piaha8k6uprbbevnaf1g5fbl&rid=giphy.gif&ct=g"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="100" height="100"/></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100"></div>
