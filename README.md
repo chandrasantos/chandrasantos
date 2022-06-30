@@ -108,7 +108,7 @@ Tenho conhecimento teórico (cursos) e comecei a praticar recentemente: Google C
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" height="100"></div>
 
-Tenho conhecimento intermediário a avançado de Google Sheets e Excel.      
+Tenho conhecimento teórico (cursos) e uso diariamente Google Sheets e Excel.      
 
 # Entre em contato:
 <div><img src="https://media1.giphy.com/media/pO3cIQ9xd3tk6IImzl/giphy.gif?cid=790b7611e8de9754ae9682baef79e6fd2f591ae141469b39&rid=giphy.gif&ct=g"></div>
