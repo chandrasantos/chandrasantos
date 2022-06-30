@@ -98,10 +98,12 @@ E várias outras certificações que estão no meu Linkedin:
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100" height="100"></div>
           
-Estou aprendendo também Google Colab, Power BI, Google Data Studio.
+Estou aprendendo também Power BI.
                     
-          
-## Já tenho experiência:
+## Conhecimento básico (menos de 1 ano de experiência):
+Tenho conhecimento teórico (cursos) e comecei a praticar recentemente: Google Colab, Google Data Studio
+
+## Conhecimento intermediário a avançado (mais de 2 anos de experiência):
 <div><img src="https://media1.giphy.com/media/1dMNqVx9Kb12EBjFrc/giphy.gif?cid=790b7611de7ee8babd49ae29f3688ce34bd4f4ca2a58365a&rid=giphy.gif&ct=g"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" height="100"></div>
