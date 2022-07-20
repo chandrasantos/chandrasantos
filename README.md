@@ -89,7 +89,7 @@ E várias outras certificações que estão no meu Linkedin:
 # Hard Skills:
 
 ## Conhecimento básico (menos de 1 ano de experiência):
-# Estou aprendendo:
+## Estou aprendendo:
 <div><img src="https://media0.giphy.com/media/yv1ggi3Cbase05a8iS/giphy.gif?cid=ecf05e47s2omu1o03sp8egl9piaha8k6uprbbevnaf1g5fbl&rid=giphy.gif&ct=g"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100"></div>
