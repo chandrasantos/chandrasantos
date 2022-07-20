@@ -88,7 +88,8 @@ E várias outras certificações que estão no meu Linkedin:
 
 # Hard Skills:
 
-## Estou aprendendo:
+## Conhecimento básico (menos de 1 ano de experiência):
+# Estou aprendendo:
 <div><img src="https://media0.giphy.com/media/yv1ggi3Cbase05a8iS/giphy.gif?cid=ecf05e47s2omu1o03sp8egl9piaha8k6uprbbevnaf1g5fbl&rid=giphy.gif&ct=g"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100"></div>
@@ -97,14 +98,11 @@ E várias outras certificações que estão no meu Linkedin:
 <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100" height="100"></div>
-          
-Estou aprendendo também Power BI.
-                    
-## Conhecimento básico (menos de 1 ano de experiência):
-Tenho conhecimento teórico (cursos) e comecei a praticar recentemente: Google Colab, Google Data Studio
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="100" height="100"/></div>
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="100" height="100"></div>
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="100" height="100"></div>               
 
+Tenho conhecimento teórico (cursos) e comecei a praticar recentemente: Google Colab, Google Data Studio
+Estou aprendendo também Power BI.     
 
 ## Conhecimento intermediário a avançado (mais de 2 anos de experiência):
 <div><img src="https://media1.giphy.com/media/1dMNqVx9Kb12EBjFrc/giphy.gif?cid=790b7611de7ee8babd49ae29f3688ce34bd4f4ca2a58365a&rid=giphy.gif&ct=g"></div>
