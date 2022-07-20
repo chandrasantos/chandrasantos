@@ -38,7 +38,7 @@
 ## Vou continuar estudando para trabalhar com Machine Learning. 
 <div><img src="https://media4.giphy.com/media/DwrnYsZCXspu8/giphy.gif?cid=790b7611c9413a159aadfe3e502eee869ed635e3ec84786c&rid=giphy.gif&ct=g"></div>
 
-## Vou continuar estudando para trabalhar como Cientista de Dados. 
+## Vou continuar estudando para ser Cientista de Dados. 
 <div><img src="https://media3.giphy.com/media/S7KaJTjYwBVipX2iDX/giphy.gif?cid=790b7611ecdb6a9a386607dfe64259c281e00e38b983bd3c&rid=giphy.gif&ct=g" width="400" height="200"></div>
 
 # Formação:
