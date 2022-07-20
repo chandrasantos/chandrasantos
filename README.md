@@ -12,7 +12,7 @@
 
 📊 Data Analysis
 
-💹 Business Inteligence
+💹 Business Intelligence
 
 ​🔐​ Data Security
 
@@ -29,7 +29,7 @@
 ## Atualmente estou apta para trabalhar com análise de dados e business intelligence.
 <div><img src="https://media4.giphy.com/media/fQAkqiwIRcy12E2dZj/giphy.gif?cid=790b7611396a364c65256802a0fbe089020b4f2a7d69ed8a&rid=giphy.gif&ct=g"></div>
 
-## Vou continuar estudando para trabalhar com Engenharia de dados. 
+## Continuo estudando para trabalhar com Engenharia de dados. 
 <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2ev-QB9hsMsbsw7MFQas2ykrDa6tx99_MA&usqp=CAU"></div>
 
 ## Vou continuar estudando para trabalhar com Machine Learning. 
@@ -38,6 +38,8 @@
 ## Vou continuar estudando para trabalhar com Big Data. 
 <div><img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2017/06/p7p9i.jpg" width="400" height="200"></div>
 
+## Vou continuar estudando para trabalhar como Cientista de Dados. 
+<div><img src="https://media3.giphy.com/media/S7KaJTjYwBVipX2iDX/giphy.gif?cid=790b7611ecdb6a9a386607dfe64259c281e00e38b983bd3c&rid=giphy.gif&ct=g" width="400" height="200"></div>
 
 # Formação:
 
