@@ -86,6 +86,14 @@ E várias outras certificações que estão no meu Linkedin:
 
 🖖comunicação 
 
+# Certificações:
+
+<div><img src="https://brasilopenbadge.com.br/badge/2944.png?nocache=390331650"</div>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b285deb5-65a1-4cbc-991e-9ed639b261f6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dbaac548-1fe3-42ff-abd3-c4cceb217b11" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 # Hard Skills:
 
 ## Conhecimento básico (menos de 1 ano de experiência):
@@ -112,7 +120,7 @@ Google Colab, Google Data Studio, Power BI.
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100"></div>
           
-Tenho conhecimento teórico (cursos) e uso diariamente Google Sheets e Excel.      
+Tenho conhecimento teórico (cursos) e uso diariamente Google Sheets e Excel.   
 
 # Entre em contato:
 <div><img src="https://media1.giphy.com/media/pO3cIQ9xd3tk6IImzl/giphy.gif?cid=790b7611e8de9754ae9682baef79e6fd2f591ae141469b39&rid=giphy.gif&ct=g"></div>
