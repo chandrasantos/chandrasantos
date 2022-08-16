@@ -88,7 +88,7 @@ E várias outras certificações que estão no meu Linkedin:
 
 # Certificações:
 
-<div><img src="https://brasilopenbadge.com.br/badge/2944.png?nocache=390331650" width="100" height="200"></div>
+<div><img src="https://brasilopenbadge.com.br/badge/2944.png?nocache=390331650" width="200" height="400"></div>
 
 <div> <data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b285deb5-65a1-4cbc-991e-9ed639b261f6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
