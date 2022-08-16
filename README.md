@@ -58,33 +58,18 @@ E várias outras certificações que estão no meu Linkedin:
 
 <div><img src="https://media0.giphy.com/media/TvXwdYI205i4E/giphy.gif?cid=790b7611a525ef4c3310e5d91185c3d8df23e7b72cd52859&rid=giphy.gif&ct=g"></div>
 
-🗃️ organização 
+## Soft Skills:
 
-🔎​ atenção aos detalhes 
+✅    | ✅  
+--------- | ------
+🗃️ organização  | 🔎​ atenção aos detalhes
+🧠raciocínio ágil  | 🔦foco 
+🧮facilidade de identificar padrões | 🦉capacidade analítica e crítica 
+📚estudo auto dirigido  | 🦾flexibilidade 
+💡 criatividade | 📈perseverança 
+⚠️prudência | 👨🏻‍🔬curiosidade 
+🔡facilidade de argumentação | 🖖comunicação 
 
-🧠raciocínio ágil 
-
-🔦foco 
-
-🧮facilidade de identificar padrões 
-
-🦉capacidade analítica e crítica 
-
-📚estudo auto dirigido 
-
-🦾flexibilidade 
-
-💡 criatividade 
-
-📈perseverança 
-
-⚠️prudência 
-
-👨🏻‍🔬curiosidade 
-
-🔡facilidade de argumentação 
-
-🖖comunicação 
 
 # Certificações:
 
