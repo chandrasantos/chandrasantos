@@ -89,7 +89,7 @@ E várias outras certificações que estão no meu Linkedin:
 # Certificações:
 
 <a href="https://brasilopenbadge.com.br/pages/badge/f4869ce4c5201813821970b450963afd">
-  <img src="https://brasilopenbadge.com.br/badge/2944.png?nocache=391740214" alt="badge ai-900" width="150px" text-align="center">
+  <img src="https://brasilopenbadge.com.br/badge/2944.png?nocache=391740214" alt="badge ai-900" width="300px" text-align="center">
 </a>
 
 <a href="https://www.credly.com/badges/b285deb5-65a1-4cbc-991e-9ed639b261f6/public_url"><img src="https://images.credly.com/size/340x340/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png" alt="badge ai-900" width="150px" text-align="center">
