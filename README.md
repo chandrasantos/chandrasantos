@@ -88,11 +88,15 @@ E várias outras certificações que estão no meu Linkedin:
 
 # Certificações:
 
-<div><img src="https://brasilopenbadge.com.br/badge/2944.png?nocache=390331650" width="200" height="400"></div>
+<a href="https://brasilopenbadge.com.br/pages/badge/f4869ce4c5201813821970b450963afd">
+  <img src="https://brasilopenbadge.com.br/badge/2944.png?nocache=391740214" alt="badge ai-900" width="150px" text-align="center">
+</a>
 
-<div> <data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b285deb5-65a1-4cbc-991e-9ed639b261f6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/b285deb5-65a1-4cbc-991e-9ed639b261f6/public_url"><img src="https://images.credly.com/size/340x340/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png" alt="badge ai-900" width="150px" text-align="center">
+</a>
 
-<div> <data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dbaac548-1fe3-42ff-abd3-c4cceb217b11" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/earner/earned/badge/dbaac548-1fe3-42ff-abd3-c4cceb217b11"><img src="https://images.credly.com/size/340x340/images/c5d44d75-9370-43fa-92a6-63e48bb6564f/62056_badges_EducationTraining_Learn_Programming.png" alt="badge ai-900" width="150px" text-align="center">
+</a>
 
 # Hard Skills:
 
