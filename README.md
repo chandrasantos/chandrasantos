@@ -100,7 +100,9 @@ E várias outras certificações que estão no meu Linkedin:
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="100" height="100"/></div>
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="100" height="100"></div>               
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="100" height="100"></div>
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100"></div>
+          
 
 Google Colab, Google Data Studio, Power BI.     
 
@@ -108,7 +110,8 @@ Google Colab, Google Data Studio, Power BI.
 <div><img src="https://media1.giphy.com/media/1dMNqVx9Kb12EBjFrc/giphy.gif?cid=790b7611de7ee8babd49ae29f3688ce34bd4f4ca2a58365a&rid=giphy.gif&ct=g"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" height="100"></div>
-
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100"></div>
+          
 Tenho conhecimento teórico (cursos) e uso diariamente Google Sheets e Excel.      
 
 # Entre em contato:
