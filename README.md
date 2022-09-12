@@ -45,7 +45,7 @@
 
 📚👨🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas - Estácio,2024
 
-📚👨🏻‍🎓 Cursando Certificação em Análise de Dados - Laboratoria/IBM, 2022
+📚👨🏻‍🎓 Certificação Análise de Dados - IBM/Laboratoria, 2022
 
 🎓Pós-Graduada Especialista em Marketing e Design Digital - Escola Superior de Propaganda e Marketing, 2015
 
