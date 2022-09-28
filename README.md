@@ -9,7 +9,7 @@
 ## 🦾👩🏻‍🔬 I want to be a data scientist to work with machine learning and artificial intelligence.
 <div><img src="https://media3.giphy.com/media/S7KaJTjYwBVipX2iDX/giphy.gif?cid=790b7611ecdb6a9a386607dfe64259c281e00e38b983bd3c&rid=giphy.gif&ct=g" width="400" height="200"></div>
 
- 📚 I currently study self-taught and take free courses and bootcamps.
+ 📚 I currently self-taught study and take free courses and bootcamps.
 
 🎯 Before my career transition, I worked for 14 years in various activities in the areas of Communication & Digital Marketing. My professional goal is to add my business experience to what I am learning in the technology area. That way I can provide a 360º view, solve complex problems and deliver solutions that allow assertive decision-making based on data.
 
