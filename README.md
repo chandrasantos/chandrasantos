@@ -2,18 +2,18 @@
 
 👩‍💻​ I'm Chandra Santos, Information Security Intern. ​🔐​ 🏴‍☠🐱‍💻
 
-🎓 Systems Analysis and Development student. Certified in data analysis by IBM/Laboratoria. Acquired knowledge: SQL, Power BI, DAX, Data Studio and Excel (Advanced).
+🎓 Systems Analysis and Development student. Certified in data analysis by IBM/Laboratoria. Knowledge: SQL, Power BI, DAX, Data Studio and Excel (Advanced).
 
-📊 Suitable for junior opportunities in the areas of Data Analysis, Business Intelligence, Market Intelligence, Web Analytics, Social Analytics and Business Intelligence.
+📊 Suitable for junior opportunities in the areas of Data Analysis, Business Intelligence, Market Intelligence, Web Analytics and Social Analytics.
 
-## 🦾👩🏻‍🔬 I want to be a data scientist to work with machine learning and artificial intelligence.
+## 🦾👩🏻‍🔬 I want to be a data scientist 
 <div><img src="https://media3.giphy.com/media/S7KaJTjYwBVipX2iDX/giphy.gif?cid=790b7611ecdb6a9a386607dfe64259c281e00e38b983bd3c&rid=giphy.gif&ct=g" width="400" height="200"></div>
 
- 📚 I currently self-taught study and take free courses and bootcamps.
+ 📚 I currently self-taught study and take free courses and bootcamps. I want to work with machine learning and artificial intelligence.
 
-🎯 Before my career transition, I worked for 14 years in various activities in the areas of Communication & Digital Marketing. My professional goal is to add my business experience to what I am learning in the technology area. That way I can provide a 360º view, solve complex problems and deliver solutions that allow assertive decision-making based on data.
+🎯 Before my career transition, I worked for 14 years in various activities in the areas of Communication & Digital Marketing. My professional goal is to add my business experience to what I am learning in the technology. That way I can provide a 360º view, solve complex problems and deliver solutions that allow assertive decision-making based on data.
 
-## 🌱 I am currently studying Python, Statistics and Data Science in a self-taught way.
+## 🌱 I am currently studying Python, Statistics and Data Science.
 
 
 # Soft Skills:
@@ -24,13 +24,13 @@
 
 ✅    | ✅  
 --------- | ------
-🗃️ organização  | 🔎​ atenção aos detalhes
-🧠raciocínio ágil  | 🔦foco 
-🧮facilidade de identificar padrões | 🦉capacidade analítica e crítica 
-📚estudo auto dirigido  | 🦾flexibilidade 
-💡 criatividade | 📈perseverança 
-⚠️prudência | 👨🏻‍🔬curiosidade 
-🔡facilidade de argumentação | 🖖comunicação 
+🗃️ organization  | 🔎​ attention to detail
+🧠 agile reasoning  | 🔦 focus
+🧮 pattern identification facility | 🦉analytical and critical ability
+📚 self-directed study  | 🦾flexibility 
+💡 creativity | 📈perseverance
+⚠️prudence | 👨🏻‍🔬curiosity 
+🔡ease argumentation | 🖖communication
 
 
 # Certificações:
