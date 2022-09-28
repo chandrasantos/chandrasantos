@@ -20,8 +20,6 @@
 
 <div><img src="https://media0.giphy.com/media/TvXwdYI205i4E/giphy.gif?cid=790b7611a525ef4c3310e5d91185c3d8df23e7b72cd52859&rid=giphy.gif&ct=g"></div>
 
-## Soft Skills:
-
 ✅    | ✅  
 --------- | ------
 🗃️ organization  | 🔎​ detail attention 
