@@ -77,14 +77,14 @@ Google Colab, Google Data Studio, Power BI.
           
 Tenho conhecimento teórico (cursos) e uso diariamente Google Sheets e Excel.   
 
-# Entre em contato:
+
 <div><img src="https://media1.giphy.com/media/pO3cIQ9xd3tk6IImzl/giphy.gif?cid=790b7611e8de9754ae9682baef79e6fd2f591ae141469b39&rid=giphy.gif&ct=g"></div>
 <div>
 <a href="https://www.youtube.com/ChandraSantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-# Claro que tinha que ter dados aqui né?
+
 <div>
 <a href="https://github.com/chandrasantos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasantos&layout=compact&langs_count=7&theme=dracula"/>
