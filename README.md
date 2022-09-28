@@ -24,7 +24,7 @@
 
 ✅    | ✅  
 --------- | ------
-🗃️ organization  | 🔎​ attention to detail
+🗃️ organization  | 🔎​ detail attention 
 🧠 agile reasoning  | 🔦 focus
 🧮 pattern identification facility | 🦉analytical and critical ability
 📚 self-directed study  | 🦾flexibility 
