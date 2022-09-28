@@ -1,55 +1,20 @@
 # Hello World! 🗺 #
 
-👩‍💻​ Sou Chandra Santos e sou estagiária de segurança da informação 🔐🏴‍☠
+👩‍💻​ I'm Chandra Santos, Information Security Intern. ​🔐​ 🏴‍☠🐱‍💻
 
-# Tenho interesse em:
-<div><img src="https://media1.giphy.com/media/UoYqxidgzAGygqo1Q2/giphy.gif?cid=790b76115b6c6d7af7067185f7e547fd2740f0949abf9310&rid=giphy.gif&ct=g"></div>
+🎓 Systems Analysis and Development student. Certified in data analysis by IBM/Laboratoria. Acquired knowledge: SQL, Power BI, DAX, Data Studio and Excel (Advanced).
 
-👩🏽‍🔬 Data Science
+📊 Suitable for junior opportunities in the areas of Data Analysis, Business Intelligence, Market Intelligence, Web Analytics, Social Analytics and Business Intelligence.
 
-📊 Data Analysis
-
-💹 Business Intelligence
-
-​🔐​ Data Security
-
-🦾 Machine Learning
-
-⚙️ Data Engineering
-
-🌐 Big Data
-
-# "Nossa, mas, você vai fazer tudo isso?"
-
-<div><img src="https://media1.giphy.com/media/elUVD4TyYlGuX3RwI6/giphy.gif?cid=790b761128d7ff243316fdd28082f80ced182599512d99d7&rid=giphy.gif&ct=g"></div>
-
-## Atualmente estou apta para trabalhar com análise de dados e business intelligence.
-<div><img src="https://media4.giphy.com/media/fQAkqiwIRcy12E2dZj/giphy.gif?cid=790b7611396a364c65256802a0fbe089020b4f2a7d69ed8a&rid=giphy.gif&ct=g"></div>
-
-## Continuo estudando para trabalhar com Engenharia de dados. 
-<div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2ev-QB9hsMsbsw7MFQas2ykrDa6tx99_MA&usqp=CAU"></div>
-
-## Vou continuar estudando para trabalhar com Big Data. 
-<div><img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2017/06/p7p9i.jpg" width="400" height="200"></div>
-
-## Vou continuar estudando para trabalhar com Machine Learning. 
-<div><img src="https://media4.giphy.com/media/DwrnYsZCXspu8/giphy.gif?cid=790b7611c9413a159aadfe3e502eee869ed635e3ec84786c&rid=giphy.gif&ct=g"></div>
-
-## Vou continuar estudando para ser Cientista de Dados. 
+## 🦾👩🏻‍🔬 I want to be a data scientist to work with machine learning and artificial intelligence.
 <div><img src="https://media3.giphy.com/media/S7KaJTjYwBVipX2iDX/giphy.gif?cid=790b7611ecdb6a9a386607dfe64259c281e00e38b983bd3c&rid=giphy.gif&ct=g" width="400" height="200"></div>
 
-# Formação:
+ 📚 I currently study self-taught and take free courses and bootcamps.
 
-📚👨🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas - Estácio,2024
+🎯 Before my career transition, I worked for 14 years in various activities in the areas of Communication & Digital Marketing. My professional goal is to add my business experience to what I am learning in the technology area. That way I can provide a 360º view, solve complex problems and deliver solutions that allow assertive decision-making based on data.
 
-📚👨🏻‍🎓 Certificação Análise de Dados - IBM/Laboratoria, 2022
+## 🌱 I am currently studying Python, Statistics and Data Science in a self-taught way.
 
-🎓Pós-Graduada Especialista em Marketing e Design Digital - Escola Superior de Propaganda e Marketing, 2015
-
-🎓Bacharel em Comunicação Social/Jornalismo - Estácio, 2011
-
-E várias outras certificações que estão no meu Linkedin:
-<div><a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
 # Soft Skills:
 
@@ -80,6 +45,9 @@ E várias outras certificações que estão no meu Linkedin:
 <a href="https://www.credly.com/earner/earned/badge/dbaac548-1fe3-42ff-abd3-c4cceb217b11"><img src="https://images.credly.com/size/340x340/images/c5d44d75-9370-43fa-92a6-63e48bb6564f/62056_badges_EducationTraining_Learn_Programming.png" alt="badge ai-900" width="150px" text-align="center">
 </a>
 
+E várias outras certificações que estão no meu Linkedin:
+<div><a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+
 # Hard Skills:
 
 ## Conhecimento básico (menos de 1 ano de experiência):
@@ -105,6 +73,7 @@ Google Colab, Google Data Studio, Power BI.
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100"></div>
+
           
 Tenho conhecimento teórico (cursos) e uso diariamente Google Sheets e Excel.   
 
