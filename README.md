@@ -46,8 +46,7 @@ And other in my Linkedin:
 # Hard Skills:
 
 ## Basic knowledge (less than a year of practice):
-<div><img src="https://media0.giphy.com/media/yv1ggi3Cbase05a8iS/giphy.gif?cid=ecf05e47s2omu1o03sp8egl9piaha8k6uprbbevnaf1g5fbl&rid=giphy.gif&ct=g"></div>
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100"></div>
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100"></div> 
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="100" height="100"></div>
 <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="100" height="100"></div>
@@ -84,3 +83,5 @@ Tenho conhecimento teórico (cursos) e uso diariamente Google Sheets e Excel.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasantos&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandrasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+ 
+ ![Snake animation](https://github.com/chandrasantos/chandrasantos/blob/output/github-contribution-grid-snake.svg)
