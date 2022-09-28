@@ -52,7 +52,7 @@ And other in my Linkedin:
 <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"></div>
 <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="100" height="100"></div>
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="100" height="100"></div>
+<div><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="100" height="100"/></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="100" height="100"></div>
@@ -76,7 +76,8 @@ Tenho conhecimento teórico (cursos) e uso diariamente Google Sheets e Excel.
 <a href="https://www.youtube.com/ChandraSantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
+https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white
+https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
 
 <div>
 <a href="https://github.com/chandrasantos">
@@ -84,4 +85,4 @@ Tenho conhecimento teórico (cursos) e uso diariamente Google Sheets e Excel.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandrasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
- ![Snake animation](https://github.com/chandrasantos/blob/output/github-contribution-grid-snake.svg)
+ 
