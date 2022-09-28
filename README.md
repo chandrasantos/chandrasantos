@@ -1,9 +1,6 @@
 # Hello World! 🗺 #
 
-👩‍💻​ Sou Chandra Santos e estou em transição de carreira 🛫
-
-<div><img src="https://media3.giphy.com/media/1xnet4TCS2iYypSR2a/giphy.gif?cid=790b76115d4c3545f108421b705f13b82852722d3cd3cd1e&rid=giphy.gif&ct=g"></div>
-
+👩‍💻​ Sou Chandra Santos e sou estagiária de segurança da informação 🔐🏴‍☠
 
 # Tenho interesse em:
 <div><img src="https://media1.giphy.com/media/UoYqxidgzAGygqo1Q2/giphy.gif?cid=790b76115b6c6d7af7067185f7e547fd2740f0949abf9310&rid=giphy.gif&ct=g"></div>
