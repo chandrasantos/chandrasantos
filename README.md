@@ -28,7 +28,7 @@
 📚 self-directed study  | 🦾flexibility 
 💡 creativity | 📈perseverance
 ⚠️prudence | 👨🏻‍🔬curiosity 
-🔡ease argumentation | 🖖communication
+🔡argumentation | 🖖communication
 
 
 # Certificações:
