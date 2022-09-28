@@ -84,4 +84,4 @@ Tenho conhecimento teórico (cursos) e uso diariamente Google Sheets e Excel.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandrasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
- ![Snake animation](https://github.com/chandrasantos/chandrasantos/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/chandrasantos/blob/output/github-contribution-grid-snake.svg)
