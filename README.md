@@ -15,7 +15,6 @@
 
 ## 🌱 I am currently studying Python, Statistics and Data Science.
 
-
 # Soft Skills:
 
 <div><img src="https://media0.giphy.com/media/TvXwdYI205i4E/giphy.gif?cid=790b7611a525ef4c3310e5d91185c3d8df23e7b72cd52859&rid=giphy.gif&ct=g"></div>
@@ -46,8 +45,7 @@ And other in my Linkedin:
 # Hard Skills:
 
 ## Basic knowledge (less than a year of practice):
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100"></div> 
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100"></div>
+<div><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></div> • <div><img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"></div> •
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="100" height="100"></div>
 <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="100" height="100"></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"></div>
@@ -74,8 +72,8 @@ https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoCol
 	https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
  https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036
  https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
- https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white
- https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+ 
+ 
  
  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
  https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
