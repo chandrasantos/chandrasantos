@@ -82,7 +82,9 @@ And other in my Linkedin:
 </div>
 
 # languages:
+ 
 English - B1/B2
+<div>
 <a href="https://www.duolingo.com/profile/chandras90?via=share_profile" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
 
 # Contact and follow me: 
