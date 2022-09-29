@@ -16,9 +16,6 @@
 ## 🌱 I am currently studying Python, Statistics and Data Science.
 
 # Soft Skills:
-
-<div><img src="https://media0.giphy.com/media/TvXwdYI205i4E/giphy.gif?cid=790b7611a525ef4c3310e5d91185c3d8df23e7b72cd52859&rid=giphy.gif&ct=g"></div>
-
 ✅    | ✅  
 --------- | ------
 🗃️ organization  | 🔎​ detail attention 
@@ -38,7 +35,7 @@
 </a> <a href="https://www.credly.com/earner/earned/badge/dbaac548-1fe3-42ff-abd3-c4cceb217b11"><img src="https://images.credly.com/size/340x340/images/c5d44d75-9370-43fa-92a6-63e48bb6564f/62056_badges_EducationTraining_Learn_Programming.png" alt="badge ai-900" width="100px" text-align="center"> <a href="https://api.badgr.io/public/assertions/LX4jG9IiRYmL1Rl59qxs7Q"><img src="https://api.badgr.io/public/assertions/LX4jG9IiRYmL1Rl59qxs7Q/image" alt="badge ai-900" width="100px" text-align="center"></a> <a href="https://www.credly.com/earner/earned/badge/6b6f134d-1d52-4f3a-97e8-cbbccd3f8201"><img src="https://images.credly.com/size/340x340/images/d6f49507-e2f2-4c97-bcfb-c83c207b8a5c/image.png" alt="badge ai-900" width="100px" text-align="center">
 </a>
 
-And other in my Linkedin:
+And others in my Linkedin:
 <div><a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
 # Hard Skills:
