@@ -52,6 +52,7 @@ And other in my Linkedin:
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -68,7 +69,9 @@ ECL
 Google Data Studio
 
 ## Intermediate / Advanced knowledge (more than two years of practice):
+
 <div><img src="https://media1.giphy.com/media/1dMNqVx9Kb12EBjFrc/giphy.gif?cid=790b7611de7ee8babd49ae29f3688ce34bd4f4ca2a58365a&rid=giphy.gif&ct=g"></div>
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -77,17 +80,17 @@ Google Data Studio
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
           
-
+# Contact and follow me: 
 <div><img src="https://media1.giphy.com/media/pO3cIQ9xd3tk6IImzl/giphy.gif?cid=790b7611e8de9754ae9682baef79e6fd2f591ae141469b39&rid=giphy.gif&ct=g"></div>
-<div>
-<a href="https://www.youtube.com/ChandraSantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
- https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
-</div>
-https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white
-https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
+<a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<div><a href="https://www.youtube.com/ChandraSantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 
+<div><a href="https://www.instagram.com/datachandra" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+<div><a href="https://www.duolingo.com/profile/chandras90?via=share_profile" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
+
 
 <div>
 <a href="https://github.com/chandrasantos">
@@ -95,5 +98,6 @@ https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoCol
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandrasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
- 
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{chandrasantos}1212%2Fhit-counter
+# HITS:
+<a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{chandrasantos}1212%2Fhit-counter">
+
