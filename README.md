@@ -33,9 +33,9 @@
 # Certificates:
 
 <a href="https://brasilopenbadge.com.br/pages/badge/f4869ce4c5201813821970b450963afd">
-  <img src="https://brasilopenbadge.com.br/badge/2944.png?nocache=391740214" alt="badge ai-800" width="200px" text-align="center">
-</a> <a href="https://www.credly.com/badges/b285deb5-65a1-4cbc-991e-9ed639b261f6/public_url"><img src="https://images.credly.com/size/340x340/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png" alt="badge ai-800" width="150px" text-align="center">
-</a> <a href="https://www.credly.com/earner/earned/badge/dbaac548-1fe3-42ff-abd3-c4cceb217b11"><img src="https://images.credly.com/size/340x340/images/c5d44d75-9370-43fa-92a6-63e48bb6564f/62056_badges_EducationTraining_Learn_Programming.png" alt="badge ai-800" width="150px" text-align="center"> <a href="https://api.badgr.io/public/assertions/LX4jG9IiRYmL1Rl59qxs7Q"><img src="https://api.badgr.io/public/assertions/LX4jG9IiRYmL1Rl59qxs7Q/image" alt="badge ai-800" width="150px" text-align="center"></a> <a href="https://www.credly.com/earner/earned/badge/6b6f134d-1d52-4f3a-97e8-cbbccd3f8201"><img src="https://images.credly.com/size/340x340/images/d6f49507-e2f2-4c97-bcfb-c83c207b8a5c/image.png" alt="badge ai-800" width="150px" text-align="center">
+  <img src="https://brasilopenbadge.com.br/badge/2944.png?nocache=391740214" alt="badge ai-900" width="150px" text-align="center">
+</a> <a href="https://www.credly.com/badges/b285deb5-65a1-4cbc-991e-9ed639b261f6/public_url"><img src="https://images.credly.com/size/340x340/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png" alt="badge ai-900" width="100px" text-align="center">
+</a> <a href="https://www.credly.com/earner/earned/badge/dbaac548-1fe3-42ff-abd3-c4cceb217b11"><img src="https://images.credly.com/size/340x340/images/c5d44d75-9370-43fa-92a6-63e48bb6564f/62056_badges_EducationTraining_Learn_Programming.png" alt="badge ai-900" width="100px" text-align="center"> <a href="https://api.badgr.io/public/assertions/LX4jG9IiRYmL1Rl59qxs7Q"><img src="https://api.badgr.io/public/assertions/LX4jG9IiRYmL1Rl59qxs7Q/image" alt="badge ai-900" width="100px" text-align="center"></a> <a href="https://www.credly.com/earner/earned/badge/6b6f134d-1d52-4f3a-97e8-cbbccd3f8201"><img src="https://images.credly.com/size/340x340/images/d6f49507-e2f2-4c97-bcfb-c83c207b8a5c/image.png" alt="badge ai-900" width="100px" text-align="center">
 </a>
 
 And other in my Linkedin:
