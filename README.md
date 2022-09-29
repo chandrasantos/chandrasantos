@@ -1,6 +1,6 @@
 # Hello World! 🗺 #
 
-👩‍💻​ I'm Chandra Santos, Information Security Intern. ​🔐​ 🏴‍☠🐱‍💻
+👩‍💻​ I'm Chandra Santos, Information Security Intern. ​🔐​ 🏴‍☠
 
 🎓 Systems Analysis and Development student. Certified in data analysis by IBM/Laboratoria. Knowledge: SQL, Power BI, DAX, Data Studio and Excel (Advanced).
 
