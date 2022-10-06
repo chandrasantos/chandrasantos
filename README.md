@@ -13,7 +13,7 @@
 
 🎯 Before my career transition, I worked for 14 years in various activities in the areas of Communication & Digital Marketing. My professional goal is to add my business experience to what I am learning in the technology. That way I can provide a 360º view, solve complex problems and deliver solutions that allow assertive decision-making based on data.
 
-## 🌱 I am currently studying Python, Django, Flask and Statistics.
+## 🌱 I am currently studying Python and Statistics.
 
 # Soft Skills:
 ✅    | ✅  
@@ -55,8 +55,6 @@ And others in my Linkedin:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Sharepoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
