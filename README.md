@@ -4,7 +4,7 @@
 
 🎓 Systems Analysis and Development student. Certified in data analysis by IBM/Laboratoria. 
 
-📊 Suitable for junior opportunities in the areas of Data Analysis, Business Intelligence, Market Intelligence, Web Analytics and Social Media Analytics.
+📊 Suitable for junior opportunities in the areas of Data Analysis, Business Intelligence, Market Intelligence and Web Analytics.
 
 ## 🦾👩🏻‍🔬 I want to be a data scientist 
 <div><img src="https://media3.giphy.com/media/S7KaJTjYwBVipX2iDX/giphy.gif?cid=790b7611ecdb6a9a386607dfe64259c281e00e38b983bd3c&rid=giphy.gif&ct=g" width="400" height="200"></div>
