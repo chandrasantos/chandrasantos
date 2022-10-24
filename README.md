@@ -95,7 +95,7 @@ Subscribe with your LinkedIn, <a href="https://www.linkedin.com/newsletters/tech
 <br>
 Subscribe with your Instagram,<a href="https://www.instagram.com/data.chandra/" target="_blank" aqui></a>
 <br>
-Subscribe with your e-mail, <a href="https://forms.gle/qm5jrxS15aVRYfn59" target="_blank">aqui></a>
+Subscribe with your e-mail, <a href="https://forms.gle/qm5jrxS15aVRYfn59" target="_blank" aqui></a>
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchandrasantos&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
