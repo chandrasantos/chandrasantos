@@ -2,18 +2,11 @@
 
 👩‍💻​ I'm Chandra Santos, Information Security Intern at Globo. ​🔐​ 🏴‍☠
 
-🎓 Systems Analysis and Development student. Certified in data analysis by IBM/Laboratoria. 
-
-📊 Interested in junior opportunities of Data Analysis, Business Intelligence and Web Analytics.
-
-## 🦾👩🏻‍🔬 I want to be a data scientist 
-<div><img src="https://media3.giphy.com/media/S7KaJTjYwBVipX2iDX/giphy.gif?cid=790b7611ecdb6a9a386607dfe64259c281e00e38b983bd3c&rid=giphy.gif&ct=g" width="400" height="200"></div>
-
- 📚 I currently self-taught study and take free courses and bootcamps. I want to work with machine learning and artificial intelligence.
+🎓 Systems Analysis and Development student. Student of the CCNA module 1 + CyberOps Associate courses at Cisco Networking Academy® (NetAcad), offered by the Cisco Brazil CyberEducation Program. Certified in data analysis by IBM/Laboratoria. 
 
 🎯 Before my career transition, I worked for 14 years in various activities in the areas of Communication & Digital Marketing. My professional goal is to add my business experience to what I am learning in the technology. That way I can provide a 360º view, solve complex problems and deliver solutions that allow assertive decision-making based on data.
 
-## 🌱 I am currently studying Python and Statistics.
+##  📚🌱 I am currently self-studying Python e Statistics.
 
 # Soft Skills:
 ✅    | ✅  
