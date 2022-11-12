@@ -6,7 +6,7 @@
 
 🎯 Before my career transition, I worked for 14 years in various activities in the areas of Communication & Digital Marketing. My professional goal is to add my business experience to what I am learning in the technology. That way I can provide a 360º view, solve complex problems and deliver solutions that allow assertive decision-making based on data.
 
-##  📚🌱 I am currently self-studying Python e Statistics.
+##  📚🌱 I am currently self-studying Python.
 
 # Soft Skills:
 ✅    | ✅  
