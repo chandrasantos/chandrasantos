@@ -2,22 +2,18 @@
 
 👩‍💻​ I'm Chandra Santos, Information Security Intern at Globo. ​🔐​ 🏴‍☠
 
-🎓 Systems Analysis and Development student. Student of the CCNA module 1 + CyberOps Associate courses at Cisco Networking Academy® (NetAcad), offered by the Cisco Brazil CyberEducation Program. Certified in data analysis by IBM/Laboratoria. 
+🎓 I have been studying Systems Analysis and Development for over a year. Actually, I am study CCNA module 1 and CyberOps Associate courses at Cisco Brazil CyberEducation Program. 
+
+I am certified:
+<a href="https://www.credly.com/badges/ae535278-0bae-45e4-bf0b-7aafbe040ff1/public_url"><img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" alt="badge ai-900" width="150px" text-align="center">
+</a>
+<a href="https://www.credly.com/earner/earned/badge/6b6f134d-1d52-4f3a-97e8-cbbccd3f8201"><img src="https://images.credly.com/size/340x340/images/d6f49507-e2f2-4c97-bcfb-c83c207b8a5c/image.png" alt="badge ai-900" width="150px" text-align="center">
+</a>
 
 🎯 Before my career transition, I worked for 14 years in various activities in the areas of Communication & Digital Marketing. My professional goal is to add my business experience to what I am learning in the technology. That way I can provide a 360º view, solve complex problems and deliver solutions that allow assertive decision-making based on data.
 
 ##  📚🌱 I am currently self-studying Python.
 
-# Soft Skills:
-✅    | ✅  
---------- | ------
-🗃️ organization  | 🔎​ detail attention 
-🧠 agile reasoning  | 🔦 focus
-🧮 pattern identification facility | 🦉analytical and critical ability
-📚 self-directed study  | 🦾flexibility 
-💡 creativity | 📈perseverance
-⚠️prudence | 👨🏻‍🔬curiosity 
-🔡argumentation | 🖖communication
 
 
 # Certificates:
@@ -25,8 +21,7 @@
 <a href="https://brasilopenbadge.com.br/pages/badge/f4869ce4c5201813821970b450963afd">
   <img src="https://brasilopenbadge.com.br/badge/2944.png?nocache=391740214" alt="badge ai-900" width="150px" text-align="center">
 </a> <a href="https://www.credly.com/badges/b285deb5-65a1-4cbc-991e-9ed639b261f6/public_url"><img src="https://images.credly.com/size/340x340/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png" alt="badge ai-900" width="100px" text-align="center">
-</a> <a href="https://www.credly.com/earner/earned/badge/dbaac548-1fe3-42ff-abd3-c4cceb217b11"><img src="https://images.credly.com/size/340x340/images/c5d44d75-9370-43fa-92a6-63e48bb6564f/62056_badges_EducationTraining_Learn_Programming.png" alt="badge ai-900" width="100px" text-align="center"> <a href="https://api.badgr.io/public/assertions/LX4jG9IiRYmL1Rl59qxs7Q"><img src="https://api.badgr.io/public/assertions/LX4jG9IiRYmL1Rl59qxs7Q/image" alt="badge ai-900" width="100px" text-align="center"></a> <a href="https://www.credly.com/earner/earned/badge/6b6f134d-1d52-4f3a-97e8-cbbccd3f8201"><img src="https://images.credly.com/size/340x340/images/d6f49507-e2f2-4c97-bcfb-c83c207b8a5c/image.png" alt="badge ai-900" width="150px" text-align="center">
-</a> <a href="https://www.credly.com/earner/earned/badge/f6f2d34e-c9b2-4930-b553-554ae78df982">
+</a> <a href="https://www.credly.com/earner/earned/badge/dbaac548-1fe3-42ff-abd3-c4cceb217b11"><img src="https://images.credly.com/size/340x340/images/c5d44d75-9370-43fa-92a6-63e48bb6564f/62056_badges_EducationTraining_Learn_Programming.png" alt="badge ai-900" width="100px" text-align="center"> <a href="https://api.badgr.io/public/assertions/LX4jG9IiRYmL1Rl59qxs7Q"><img src="https://api.badgr.io/public/assertions/LX4jG9IiRYmL1Rl59qxs7Q/image" alt="badge ai-900" width="100px" text-align="center"></a> <a href="https://www.credly.com/earner/earned/badge/f6f2d34e-c9b2-4930-b553-554ae78df982">
   <img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="badge ai-900" width="150px" text-align="center">
 </a>
 
