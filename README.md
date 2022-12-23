@@ -2,7 +2,7 @@
 
 👩‍💻​ I'm Chandra Santos, Information Security Intern at Globo. ​🔐​ 🏴‍☠
 
-🎓 I have been studying Systems Analysis and Development for over a year. Actually, I am studying module 1 of CCNA course and CyberOps Associate both at Cisco Brazil CyberEducation Program. 
+🎓 I have been studying Systems Analysis and Development for over a year. Actually, I am studying CCNA 1 and CyberOps Associate both at Cisco Brazil CyberEducation Program. 
 
 <a href="https://www.credly.com/badges/ae535278-0bae-45e4-bf0b-7aafbe040ff1/public_url"><img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" alt="badge ai-900" width="150px" text-align="center">
 </a>
@@ -11,7 +11,7 @@
 
 
 ##  📚🌱 I am currently self-studying Python.
-
+👩‍💻🦾 I can help you about SQL, spreadsheets, Power BI. 
 
 
 # Certificates:
