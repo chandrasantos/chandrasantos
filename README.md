@@ -11,7 +11,7 @@
 
 
 ##  📚🌱 I am currently self-studying Python.
-👩‍💻🦾 I can help you about SQL, spreadsheets, Power BI and GitHub. 
+👩‍💻🦾 I can help you about data analysis, SQL, spreadsheets, Power BI. 
 
 
 # Certificates:
