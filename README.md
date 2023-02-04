@@ -28,7 +28,7 @@ And others in my Linkedin:
 
 # Hard Skills:
 
-## Basic knowledge (less than a year of practice):
+## Basic knowledge:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CentOs](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -49,7 +49,7 @@ And others in my Linkedin:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
  • Looker • DAX • 
 
-## Intermediate / Advanced knowledge (more than two years of practice):
+## Intermediate / Advanced knowledge:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -68,23 +68,6 @@ And others in my Linkedin:
 English - intermediate level
 <div>
 <a href="https://www.duolingo.com/profile/chandrasantos?via=share_profile" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
-
-# You can contact and follow me: 
-<div><img src="https://media1.giphy.com/media/pO3cIQ9xd3tk6IImzl/giphy.gif?cid=790b7611e8de9754ae9682baef79e6fd2f591ae141469b39&rid=giphy.gif&ct=g"></div>
-
-<a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/data.chandra/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.youtube.com/ChandraSantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
-
-# Newsletter - Tech News:
-The newsletter is sent in Portuguese. 
-
-
-Subscribe with your LinkedIn, <a href="https://www.linkedin.com/newsletters/tech-news-chandra-santos-6888662376128884736/" target="_blank">aqui</a>
-
-
-Subscribe with your Instagram,<a href="https://www.instagram.com/data.chandra/" target="_blank"> aqui</a>
-
-
-Subscribe with your e-mail, <a href="https://chandrasantos.substack.com/" target="_blank"> aqui</a>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchandrasantos&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
