@@ -52,6 +52,9 @@ And others in my Linkedin:
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+  # Microsoft Learn
+ ![Microsoft Learn](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+  
 <div>
 <a href="https://github.com/chandrasantos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasantos&layout=compact&langs_count=7&theme=dracula"/>
@@ -59,7 +62,7 @@ And others in my Linkedin:
 </div>
   
  
-![Microsoft Learn](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+
 
 # languages:
  
