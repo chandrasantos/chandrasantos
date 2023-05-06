@@ -2,15 +2,13 @@
 
 👩‍💻​ I'm Chandra Santos, Information Security Intern at Globo, working with data analysis. ​🔐​ 🏴‍☠
 
-🎓 I have been studying Systems Analysis and Development for over a year. 
-
 <a href="https://www.credly.com/badges/ae535278-0bae-45e4-bf0b-7aafbe040ff1/public_url"><img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" alt="badge ai-900" width="150px" text-align="center">
 </a>
 <a href="https://www.credly.com/earner/earned/badge/6b6f134d-1d52-4f3a-97e8-cbbccd3f8201"><img src="https://images.credly.com/size/340x340/images/d6f49507-e2f2-4c97-bcfb-c83c207b8a5c/image.png" alt="badge ai-900" width="150px" text-align="center">
 </a>
 
 
-##  📚🌱 I am currently self-studying Python.
+##  📚🌱🎓 I'm finishing my degree in systems analysis and development, with an interest in back-end development and data analysis.
 👩‍💻🦾 I can help you about data analysis, SQL, spreadsheets, Power BI. 
 
 
