@@ -1,6 +1,6 @@
 # Hello World! 🗺 #
 
-👩‍💻​ I'm Chandra Santos, Information Security Intern at Globo. ​🔐​ 🏴‍☠
+👩‍💻​ I'm Chandra Santos, Information Security Intern at Globo, working with data analysis. ​🔐​ 🏴‍☠
 
 🎓 I have been studying Systems Analysis and Development for over a year. 
 
