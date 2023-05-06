@@ -8,9 +8,7 @@
 </a>
 
 
-##  📚🌱🎓 I'm finishing my degree in systems analysis and development, with an interest in back-end development and data analysis.
-👩‍💻🦾 I can help you about data analysis, SQL, spreadsheets, Power BI. 
-
+##  📚🌱🎓👩‍💻🦾 I'm finishing my degree in systems analysis and development, with an interest in back-end development and data analysis.
 
 # Certificates:
 
