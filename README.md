@@ -62,8 +62,11 @@ English - intermediate level
 <a href="https://www.duolingo.com/profile/chandrasantos?via=share_profile" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
 
 # website:
- ![GitHub](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
-
+<div>
+<a href="https://chandrasantos.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" target="_blank"></a>
+</div>
+  
+  
 # data & analytics:
  
 ![chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandrasantos&theme=2077)
