@@ -61,19 +61,14 @@ English - intermediate level
 <div>
 <a href="https://www.duolingo.com/profile/chandrasantos?via=share_profile" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
 
- # website:
+# website:
  ![GitHub](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 
-  
-<div>
-<a href="https://github.com/chandrasantos">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasantos&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandrasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
+# analytics:
 ![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasantos&theme=highcontrast)
   
 ![chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandrasantos&theme=2077)
-  
+
+![chart 2](https://github-readme-streak-stats.herokuapp.com/?user=chandrasantos&theme=merko)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchandrasantos&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
