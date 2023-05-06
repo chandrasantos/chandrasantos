@@ -1,6 +1,6 @@
 # Hello World! 🗺 #
 
-👩‍💻​ I'm Chandra Santos, Information Security Intern at Globo, working with data analysis. ​🔐​ 🏴‍☠
+👩‍💻​ I'm Chandra Santos, Information Security Intern at Globo, working with data analysis.
 
 <a href="https://www.credly.com/badges/ae535278-0bae-45e4-bf0b-7aafbe040ff1/public_url"><img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" alt="badge ai-900" width="150px" text-align="center">
 </a>
