@@ -53,7 +53,9 @@ Power Platform
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
  # Microsoft Learn:
- ![Microsoft Learn](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+<div>
+<a href="https://learn.microsoft.com/pt-br/users/chandrasantos/" target="_blank"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
+</div>
   
  # languages:
  
