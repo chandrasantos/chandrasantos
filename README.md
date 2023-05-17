@@ -2,11 +2,13 @@
 
 👩‍💻​ I'm Chandra Santos, Information Security Intern at Globo, and working with data analysis.
 
+<a href="https://www.credly.com/badges/72142734-d850-41d6-9da4-d3f56e2da4f2/public_url"><img src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="badge ai-900" width="150px" text-align="center"></a>
+
 <a href="https://www.credly.com/badges/ae535278-0bae-45e4-bf0b-7aafbe040ff1/public_url"><img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" alt="badge ai-900" width="150px" text-align="center">
 </a>
 <a href="https://www.credly.com/earner/earned/badge/6b6f134d-1d52-4f3a-97e8-cbbccd3f8201"><img src="https://images.credly.com/size/340x340/images/d6f49507-e2f2-4c97-bcfb-c83c207b8a5c/image.png" alt="badge ai-900" width="150px" text-align="center">
 </a>
-<a href="https://www.credly.com/badges/72142734-d850-41d6-9da4-d3f56e2da4f2/public_url"><img src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="badge ai-900" width="150px" text-align="center"></a>
+
 
 ##  📚🌱🎓👩‍💻🦾 I'm finishing my degree in systems analysis and development, with an interest in back-end development and data analysis.
 
