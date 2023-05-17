@@ -1,6 +1,6 @@
 # Hello World! 🗺 #
 
-👩‍💻​ I'm Chandra Santos, currently working as an intern at Globo working at data analysis in the information security area.
+👩‍💻​ I'm Chandra Santos, currently working as an intern at Globo working at data analysis in the InfoSec area.
 
 🏆 3x Microsoft certified
 
