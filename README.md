@@ -2,9 +2,10 @@
 
 👩‍💻​ I'm Chandra Santos, currently working as an intern at Globo working at data analysis in the InfoSec area.
 
-🏆 3x Microsoft certified
+🏆 4x Microsoft certified
 
 <a href="https://www.credly.com/badges/236d3d66-ac01-493b-be58-3f67b1e6f29c/public_url"><img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="badge ai-900" width="150px" text-align="center"></a>
+<a href="<a href="https://www.credly.com/badges/236d3d66-ac01-493b-be58-3f67b1e6f29c/public_url"><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="badge ai-900" width="150px" text-align="center"></a>"><img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="badge ai-900" width="150px" text-align="center"></a>
 <a href="https://www.credly.com/badges/72142734-d850-41d6-9da4-d3f56e2da4f2/public_url"><img src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="badge ai-900" width="150px" text-align="center"></a>
 <a href="https://www.credly.com/badges/ae535278-0bae-45e4-bf0b-7aafbe040ff1/public_url"><img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" alt="badge ai-900" width="150px" text-align="center">
 </a>
