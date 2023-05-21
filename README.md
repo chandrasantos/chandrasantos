@@ -10,7 +10,12 @@
 <a href="https://www.credly.com/badges/ae535278-0bae-45e4-bf0b-7aafbe040ff1/public_url"><img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" alt="badge pl-900" width="150px" text-align="center">
 </a>
 
-##  📚🌱🎓👩‍💻🦾 I'm finishing my degree in systems analysis and development, with an interest in back-end development and data analysis.
+### Microsoft Learn:
+<div>
+<a href="https://learn.microsoft.com/pt-br/users/chandrasantos/" target="_blank"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
+</div>
+
+#  📚🌱🎓👩‍💻🦾 I'm finishing my degree in systems analysis and development, with an interest in back-end development and data analysis.
 
 # Certificates:
 
@@ -47,11 +52,6 @@ And others in my Linkedin:
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
- # Microsoft Learn:
-<div>
-<a href="https://learn.microsoft.com/pt-br/users/chandrasantos/" target="_blank"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
-</div>
   
  # Languages:
  
