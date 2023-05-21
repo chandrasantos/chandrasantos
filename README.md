@@ -15,7 +15,7 @@
 <a href="https://learn.microsoft.com/pt-br/users/chandrasantos/" target="_blank"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
 </div>
 
-#  📚🌱🎓👩‍💻🦾 I'm finishing my degree in systems analysis and development, with an interest in back-end development and data analysis.
+#  📚🌱🎓👩‍💻🦾 I'm finishing my degree in systems analysis and development, with an interest in back-end development, analytics engineering, data science and AI.
 
 # Certificates:
 
