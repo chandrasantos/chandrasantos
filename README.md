@@ -1,6 +1,6 @@
 # Hello World! 🗺 #
 
-👩‍💻​ I'm Chandra Santos, graduated in Systems Analysis and Development from Estácio university and professional specialized in data analysis and reports from Google and IBM. I am available for job opportunities as a data analyst, BI analyst, analytics engineer, data engineer or back-end developer (python).
+👩‍💻​ I'm Chandra Santos, graduated in Systems Analysis and Development from Estácio university and professional specialized in data analysis from Google and IBM. I am available for job opportunities as a data analyst, BI analyst, analytics engineer, data engineer or back-end developer (python).
 
 ## 🏆 4x Microsoft certified
 
