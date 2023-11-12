@@ -1,6 +1,6 @@
 # Hello World! 🗺 #
 
-👩‍💻​ I'm Chandra Santos, currently working as an intern at Globo working at data analysis in the InfoSec area.
+👩‍💻​ I'm Chandra Santos, graduated in Systems Analysis and Development from Estácio university and professional specialized in data analysis and reports from Google and IBM. I am available for job opportunities as a data analyst, BI analyst, analytics engineer, data engineer or back-end developer (python).
 
 ## 🏆 4x Microsoft certified
 
@@ -15,7 +15,10 @@
 <a href="https://learn.microsoft.com/pt-br/users/chandrasantos/" target="_blank"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
 </div>
 
-#  📚🌱🎓👩‍💻🦾 I'm finishing my degree in systems analysis and development, with an interest in back-end development, data engineering, data science and AI.
+## 🏆 Google certified
+<a href="https://www.credly.com/earner/earned/badge/18e963fc-2dc6-411b-8c42-eca677fce71b"><img src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" alt="badge google-da" width="150px" text-align="center"></a>
+
+#  📚🌱🎓👩‍💻🦾 I am an interest in back-end development, data engineering, data science and AI.
 
 # Certificates:
 
