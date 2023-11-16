@@ -18,7 +18,7 @@
 ## 🏆 Google certified
 <a href="https://www.credly.com/earner/earned/badge/18e963fc-2dc6-411b-8c42-eca677fce71b"><img src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" alt="badge google-da" width="150px" text-align="center"></a>
 
-#  📚🌱👩‍💻 I'm studying and specializing in data engineering
+#  📚🌱👩‍💻 I'm studying python and django
 
 # Certificates:
 
