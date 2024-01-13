@@ -15,11 +15,8 @@
 <a href="https://learn.microsoft.com/pt-br/users/chandrasantos/" target="_blank"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
 </div>
 
-## 🏆 Google certified
-<a href="https://www.credly.com/earner/earned/badge/18e963fc-2dc6-411b-8c42-eca677fce71b"><img src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" alt="badge google-da" width="150px" text-align="center"></a>
-
 # Certificates:
-
+<a href="https://www.credly.com/earner/earned/badge/18e963fc-2dc6-411b-8c42-eca677fce71b"><img src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" alt="badge google-da" width="150px" text-align="center"></a>
 <a href="https://www.credly.com/earner/earned/badge/6b6f134d-1d52-4f3a-97e8-cbbccd3f8201"><img src="https://images.credly.com/size/340x340/images/d6f49507-e2f2-4c97-bcfb-c83c207b8a5c/image.png" alt="badge ai-900" width="150px" text-align="center">
 </a>
 <a href="https://www.credly.com/badges/7469472c-c30a-46ab-a459-8d98173a50fb/public_url"><img src="https://images.credly.com/size/340x340/images/9a13a2d2-c007-4260-81bd-bf5d1ffb9223/image.png" alt="badge ai-900" width="150px" text-align="center">
