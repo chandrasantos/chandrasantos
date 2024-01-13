@@ -64,7 +64,7 @@ Another:
 
 
   
- # Languages intermediate level: English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Spanish 🇪🇸
+ # Languages intermediate level: English Google (Noto Color Emoji - Unicode 15.1) and Spanish  Google (Noto Color Emoji - Unicode 15.1)
 
 <div>
 <a href="https://www.duolingo.com/profile/chandrasantos?via=share_profile" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
