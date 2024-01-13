@@ -62,13 +62,13 @@ Another:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-
-  
+ 
  # Languages intermediate level: English and Spanish
 <a href="https://www.duolingo.com/profile/chandrasantos?via=share_profile" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
 
-
-  
+# Talk to me
+<div><a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+ Instagram - www.instagram.com/data.chandra 
  
 ![chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandrasantos&theme=2077)
 
