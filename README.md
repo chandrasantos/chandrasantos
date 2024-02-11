@@ -1,6 +1,6 @@
 # Hello World! 🗺 #
 
-👩‍💻​ I'm Chandra Santos, graduated in Systems Analysis and Development from Estácio university, student of Data Science in UFMS [1/6] and professional specialized in data analysis from Google and Laboratoria/IBM. 
+👩‍💻​ I'm Chandra Santos, graduated in Systems Analysis and Development from Estácio university, student of Data Science in Universidade Federal de Mato Grosso do Sul and professional specialized in data analysis from Google and Laboratoria/IBM. 
 
 ## 🏆 4x Microsoft certified
 
