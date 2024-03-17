@@ -65,7 +65,7 @@ Another:
 
 
  
- # Languages intermediate level: English and Spanish
+ # Languages (B1/B2 - intermediate level): English and Spanish
 <a href="https://www.duolingo.com/profile/chandrasantos?via=share_profile" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
 
 # Talk to me
