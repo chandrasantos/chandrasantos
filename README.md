@@ -1,8 +1,9 @@
 # Hello World! 🗺 #
 
-👩‍💻​ Estudante de Ciência de Dados na Universidade Federal de Mato Grosso do Sul (UFMS), Pós-Graduanda em Engenharia de Dados na Anhanguera e graduada em Análise e Desenvolvimento de Sistemas pela Estácio. 
+📚 Estudante de Ciência de Dados na Universidade Federal de Mato Grosso do Sul (UFMS) e Pós-Graduanda em Engenharia de Dados na Anhanguera
+👩‍💻 Graduada em Análise e Desenvolvimento de Sistemas pela Estácio. Trabalho no Museu do Amanhã, no Rio de Janeiro - RJ 
 
-## 🏆 4x Microsoft certified
+## 🏆 Certificações Microsoft
 
 <a href="https://www.credly.com/badges/1b876871-7c6f-413a-a63b-27ebf8b2f58f/public_url"><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="badge ai-900" width="150px" text-align="center"></a>
 <a href="https://www.credly.com/badges/236d3d66-ac01-493b-be58-3f67b1e6f29c/public_url"><img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="badge dp-900" width="150px" text-align="center"></a>
@@ -15,7 +16,7 @@
 <a href="https://learn.microsoft.com/pt-br/users/chandrasantos/" target="_blank"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
 </div>
 
-# Certificates:
+# Outras certificações:
 <a href="https://www.credly.com/earner/earned/badge/18e963fc-2dc6-411b-8c42-eca677fce71b"><img src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" alt="badge google-da" width="150px" text-align="center"></a>
 <a href="https://www.credly.com/earner/earned/badge/6b6f134d-1d52-4f3a-97e8-cbbccd3f8201"><img src="https://images.credly.com/size/340x340/images/d6f49507-e2f2-4c97-bcfb-c83c207b8a5c/image.png" alt="badge ai-900" width="150px" text-align="center">
 </a>
@@ -28,8 +29,6 @@
   <img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="badge ai-900" width="150px" text-align="center">
 </a>
 
-And others in my Linkedin:
-<div><a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
 # Skills:
 
