@@ -1,7 +1,8 @@
 # Hello World! 🗺 #
 
-📚 Estudante de Ciência de Dados na Universidade Federal de Mato Grosso do Sul (UFMS) e Pós-Graduanda em Engenharia de Dados na Anhanguera
-👩‍💻 Graduada em Análise e Desenvolvimento de Sistemas pela Estácio. Trabalho no Museu do Amanhã, no Rio de Janeiro - RJ 
+📚 Estudante de Ciência de Dados na Universidade Federal de Mato Grosso do Sul (UFMS) e Pós-Graduanda em Engenharia de Dados na Anhanguera. Graduada em Análise e Desenvolvimento de Sistemas pela Estácio. 
+
+👩‍💻 Trabalho no Museu do Amanhã, no Rio de Janeiro - RJ 
 
 ## 🏆 Certificações Microsoft
 
