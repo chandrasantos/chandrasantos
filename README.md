@@ -1,6 +1,6 @@
 # Hello World! 🗺 #
 
-👩‍💻​ I'm Chandra Santos, graduated in Systems Analysis and Development from Estácio university, student of Data Science in Universidade Federal de Mato Grosso do Sul, data engineering graduate student in Anhanguera and professional specialized in data analysis from Google and Laboratoria/IBM. 
+👩‍💻​ Estudante de Ciência de Dados na Universidade Federal de Mato Grosso do Sul (UFMS), Pós-Graduanda em Engenharia de Dados na Anhanguera e graduada em Análise e Desenvolvimento de Sistemas pela Estácio. 
 
 ## 🏆 4x Microsoft certified
 
