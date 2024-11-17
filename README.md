@@ -1,12 +1,10 @@
-# Resumo profissional #
+# Sobre #
 
-Iniciei minha carreira como Analytics Engineer/Engenheiro Analítico, em 2022, atuando com coleta, ingestão, transformação, modelagem, análise e visualização de dados usando Big Query, SQL e Looker na Google Cloud. Na ocasião também participei do processo de governança de dados e documentação do projeto. 
+💻 Atuo como Engenheira de Dados no Museu do Amanhã - Crio soluções end-to-end de Big Data, com entrega de produtos de dados de Business Intelligence e Inteligência Artificial. Faço todo o processo do pipeline de dados (coleta, ingestão, ELT, enriquecimento, armazenamento), modelagem, análise e visualização de dados, bem como governança de dados e documentações. 
 
-No ano seguinte atuei como analista de dados, utilizando a ferramenta Power BI da Microsoft, realizando modelagem, análise de dados e a criação de painéis. Além de ministrar treinamentos para equipe e clientes ensinando a usar o Power BI e o Microsoft Fabric.
+⌨️ Estudante de Ciência de Dados na Universidade Federal de Mato Grosso do Sul, Pós-graduada em Especialista em Engenharia de Dados (Anhanguera, 2024) e Analista de Sistemas (Estácio, 2023).
 
-Atualmente atuo como Engenheira de Dados e crio soluções end-to-end de Big Data, com entrega de produtos de dados de Business Intelligence e Inteligência Artificial. Faço todo o processo do pipeline de dados (coleta, ingestão, ELT, enriquecimento, armazenamento), modelagem, análise e visualização de dados, bem como governança de dados e documentações. 
-
-🔭 Atuo como Engenheira de Dados no Museu do Amanhã, no Rio de Janeiro - RJ.
+🏠 Moro no Rio de Janeiro - RJ
 
 🌱 Eu estou aprendendo:
 
@@ -37,12 +35,11 @@ Atualmente atuo como Engenheira de Dados e crio soluções end-to-end de Big Dat
 
 
 ## 🏆 Portfólio
-
 📌<a href="https://www.linkedin.com/feed/update/urn:li:activity:7258154689744044032/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7258154689744044032%29" target="_blank"> Projeto Robô Ma.IA, o assistente do Museu do Amanhã </a>
 
 
-# Contato
+# Como entrar em contato comigo:
 <div><a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
-# Visitas a esse perfil  
+# Total de visitas nesse perfil  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchandrasantos&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
