@@ -16,6 +16,8 @@
 
 ✅ Apache Superset
 
+## Linguagens e Ferramentas
+[em breve]
 
 ## 🏆 Certificações 
 <a href="https://www.credly.com/badges/1b876871-7c6f-413a-a63b-27ebf8b2f58f/public_url"><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="badge ai-900" width="150px" text-align="center"></a>
