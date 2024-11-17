@@ -1,4 +1,4 @@
-# Hello World! 🗺 #
+# Resumo profissional #
 
 Iniciei minha carreira como Analytics Engineer/Engenheiro Analítico, em 2022, atuando com coleta, ingestão, transformação, modelagem, análise e visualização de dados usando Big Query, SQL e Looker na Google Cloud. Na ocasião também participei do processo de governança de dados e documentação do projeto. 
 
