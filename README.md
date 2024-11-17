@@ -36,7 +36,7 @@ Atualmente atuo como Engenheira de Dados e crio soluções end-to-end de Big Dat
 # Contato
 <div><a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
-📌Portfólio:
+## 🏆 Portfólio
 
 📌<a href="https://www.linkedin.com/feed/update/urn:li:activity:7258154689744044032/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7258154689744044032%29" target="_blank"> Projeto Robô Ma.IA, o assistente do Museu do Amanhã </a>
 
