@@ -1,4 +1,4 @@
-# Sobre #
+## Sobre 
 
 💻 Atuo como Engenheira de Dados no Museu do Amanhã - Crio soluções end-to-end de Big Data, com entrega de produtos de dados de Business Intelligence e Inteligência Artificial. Faço todo o processo do pipeline de dados (coleta, ingestão, ELT, enriquecimento, armazenamento), modelagem, análise e visualização de dados, bem como governança de dados e documentações. 
 
