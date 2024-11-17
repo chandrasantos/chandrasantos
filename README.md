@@ -1,8 +1,26 @@
 # Hello World! 🗺 #
 
-📚 Estudante de Ciência de Dados na Universidade Federal de Mato Grosso do Sul (UFMS) e Pós-Graduanda em Engenharia de Dados na Anhanguera. Graduada em Análise e Desenvolvimento de Sistemas pela Estácio. 
+Iniciei minha carreira como Analytics Engineer/Engenheiro Analítico, em 2022, atuando com coleta, ingestão, transformação, modelagem, análise e visualização de dados usando Big Query, SQL e Looker na Google Cloud. Na ocasião também participei do processo de governança de dados e documentação do projeto. 
 
-👩‍💻 Trabalho no Museu do Amanhã, no Rio de Janeiro - RJ 
+No ano seguinte atuei como analista de dados, utilizando a ferramenta Power BI da Microsoft, realizando modelagem, análise de dados e a criação de painéis. Além de ministrar treinamentos para equipe e clientes ensinando a usar o Power BI e o Microsoft Fabric.
+
+Atualmente atuo como Engenheira de Dados e crio soluções end-to-end de Big Data, com entrega de produtos de dados de Business Intelligence e Inteligência Artificial. Faço todo o processo do pipeline de dados (coleta, ingestão, ELT, enriquecimento, armazenamento), modelagem, análise e visualização de dados, bem como governança de dados e documentações. 
+
+🔭 Estou trabalhando como Engenheira de Dados no Museu do Amanhã, no Rio de Janeiro - RJ.
+
+🌱 Eu estou aprendendo:
+
+✅ Python
+
+✅ MySQL ✅ PostgreSQL ✅Cassandra
+
+✅ Apache Spark
+
+✅ Apache Airflow
+
+✅ Apache Hadoop
+
+✅ Apache Superset
 
 ## 🏆 Certificações Microsoft
 
