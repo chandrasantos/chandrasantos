@@ -22,6 +22,9 @@ Atualmente atuo como Engenheira de Dados e crio soluções end-to-end de Big Dat
 
 ✅ Apache Superset
 
+✅ Linux Debian
+
+
 ## 🏆 Certificações 
 <a href="https://www.credly.com/badges/1b876871-7c6f-413a-a63b-27ebf8b2f58f/public_url"><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="badge ai-900" width="150px" text-align="center"></a>
 <a href="https://www.credly.com/badges/236d3d66-ac01-493b-be58-3f67b1e6f29c/public_url"><img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="badge dp-900" width="150px" text-align="center"></a>
