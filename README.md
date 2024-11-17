@@ -6,9 +6,7 @@
 
 🌱 Eu estou aprendendo:
 
-✅ Python
-
-✅ MySQL ✅ PostgreSQL ✅Cassandra
+✅ Cassandra
 
 ✅ Apache Spark
 
@@ -17,8 +15,6 @@
 ✅ Apache Hadoop
 
 ✅ Apache Superset
-
-✅ Linux Debian
 
 
 ## 🏆 Certificações 
