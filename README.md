@@ -2,7 +2,7 @@
 
 💻 Atuo como Engenheira de Dados no Museu do Amanhã - Crio soluções end-to-end de Big Data, com entrega de produtos de dados de Business Intelligence e Inteligência Artificial. Faço todo o processo do pipeline de dados (coleta, ingestão, ELT, enriquecimento, armazenamento), modelagem, análise e visualização de dados, bem como governança de dados e documentações. 
 
-⌨️ Estudante de Ciência de Dados na Universidade Federal de Mato Grosso do Sul, Pós-graduada em Especialista em Engenharia de Dados (Anhanguera, 2024) e Analista de Sistemas (Estácio, 2023).
+⌨️ Estudante de Ciência de Dados na Universidade Federal de Mato Grosso do Sul, Pós-graduada Especialista em Engenharia de Dados (Anhanguera, 2024) e Analista de Sistemas (Estácio, 2023).
 
 🏠 Moro no Rio de Janeiro - RJ
 
