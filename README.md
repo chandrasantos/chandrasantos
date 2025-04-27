@@ -1,3 +1,61 @@
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+
+## Sobre mim
+
+- 🎓 Estudando Ciência de Dados na Universidade Federal de Mato Grosso do Sul.
+- 💼 Trabalhando como Engenheira de Dados no IDG/Museu do Amanhã.
+- 🌱 Aprendendo mais sobre IBM Watson e Gen AI.
+
+## Minhas Skills
+
+**Linguagens e Nuvens **
+
+![SQL](https://img.icons8.com/?size=100&id=13406&format=png&color=000000)
+![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
+![GCP/Big Query]([https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript](https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000))
+![Azure]([https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000))
+
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Sobre 
 
 💻 Atuo como Engenheira de Dados no Museu do Amanhã - Crio soluções end-to-end de Big Data, com entrega de produtos de dados de Business Intelligence e Inteligência Artificial. Faço todo o processo do pipeline de dados (coleta, ingestão, ELT, enriquecimento, armazenamento), modelagem, análise e visualização de dados, bem como governança de dados e documentações. 
