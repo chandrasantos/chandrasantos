@@ -1,31 +1,30 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=chandrasantos&color=006bed)
 
-## Sobre mim
+## Sobre
 
 - 🎓 Estudando Ciência de Dados na Universidade Federal de Mato Grosso do Sul.
 - 💼 Trabalhando como Engenheira de Dados no IDG/Museu do Amanhã.
 - 🌱 Aprendendo mais sobre IBM Watson e Gen AI.
 
-## Minhas Skills
+## Skills
 
 ![SQL](https://img.icons8.com/?size=100&id=13406&format=png&color=000000)
 ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
-![GCP/Big Query](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript](https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000)
+![GCP/Big Query](https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000)
 ![Azure](https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
+![GitHub](https://img.icons8.com/?size=100&id=62856&format=png&color=000000)
 
 <br/>
 
 <a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandrasantos&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/chandrasantos/)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/chandrasantos/)
+[![Linkedin](https://img.shields.io/badge/-chandrasantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/chandrasantos/)
+[![GitHub](https://img.shields.io/github/followers/chandrasantos?label=follow&style=social)](https://github.com/chandrasantos/)
 
 
 
@@ -34,31 +33,6 @@
 
 
 
-
-
-
-
-
-## Sobre 
-
-💻 Atuo como Engenheira de Dados no Museu do Amanhã - Crio soluções end-to-end de Big Data, com entrega de produtos de dados de Business Intelligence e Inteligência Artificial. Faço todo o processo do pipeline de dados (coleta, ingestão, ELT, enriquecimento, armazenamento), modelagem, análise e visualização de dados, bem como governança de dados e documentações. 
-
-⌨️ Estudante de Ciência de Dados na Universidade Federal de Mato Grosso do Sul (previsão: 12/2026); Especialista em Engenharia de Dados (Pós-graduação Anhanguera, 2024); e Analista de Sistemas (Graduação Estácio, 2023).
-
-🌱 Eu estou aprendendo:
-
-✅ Cassandra
-
-✅ Apache Spark
-
-✅ Apache Airflow
-
-✅ Apache Hadoop
-
-✅ Apache Superset
-
-## Linguagens e Ferramentas
-[em breve]
 
 ## 🏆 Certificações 
 <a href="https://www.credly.com/badges/1b876871-7c6f-413a-a63b-27ebf8b2f58f/public_url"><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="badge ai-900" width="150px" text-align="center"></a>
