@@ -2,9 +2,9 @@
 
 ## Sobre
 
-- 🎓 Estudando Ciência de Dados na Universidade Federal de Mato Grosso do Sul.
-- 💼 Trabalhando como Engenheira de Dados no IDG/Museu do Amanhã.
-- 🌱 Aprendendo mais sobre IBM Watson e Gen AI.
+- 🎓 Estudante de Ciência de Dados na Universidade Federal de Mato Grosso do Sul.
+- 💼 Engenheira de Dados no IDG/Museu do Amanhã.
+- 🌱 Aprendendo mais sobre IBM Watson, Gen AI e ElasticSearch.
 
 ## Skills
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
+<a href="https://github.com/iuricode" title="Perfil da Chandra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandrasantos&theme=dracula&show_icons=true" />
 </a>
 
