@@ -47,10 +47,3 @@
 
 ## 🏆 Portfólio
 📌<a href="https://www.linkedin.com/feed/update/urn:li:activity:7258154689744044032/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7258154689744044032%29" target="_blank"> Projeto Robô Ma.IA, o assistente do Museu do Amanhã </a>
-
-
-# Como entrar em contato comigo:
-<div><a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
-
-# Total de visitas nesse perfil  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchandrasantos&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
