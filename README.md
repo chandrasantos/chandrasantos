@@ -1,12 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=chandrasantos&color=006bed)
 
-## Sobre
-
-- 🎓 Estudante de Ciência de Dados na Universidade Federal de Mato Grosso do Sul.
-- 💼 Engenheira de Dados no IDG/Museu do Amanhã.
+## Hello, World!
+- 💼 Engenheira de Dados no Museu do Amanhã.
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas / Pós-Graduada em Engenharia de Dados / Cursando graduação em Ciência de Dados na Universidade Federal de Mato Grosso do Sul.
+- ✅ Entrei na área de dados em 2022 como estagiária na Globo.
 - 🌱 Estudando estatística e visão computacional
 
-## Skills
+## Habilidades técnicas
 
 ![SQL](https://img.icons8.com/?size=100&id=13406&format=png&color=000000)
 ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
