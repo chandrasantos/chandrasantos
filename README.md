@@ -12,8 +12,7 @@
 ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
 ![GCP/Big Query](https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000)
 ![Azure](https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000)
-![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
-![GitHub](https://img.icons8.com/?size=100&id=62856&format=png&color=000000)
+![Big Query](https://safetec.com.br/wp-content/webp-express/webp-images/uploads/2022/02/bigquery-que-e.jpg.webp)
 
 <br/>
 
