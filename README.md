@@ -4,7 +4,7 @@
 
 - 🎓 Estudante de Ciência de Dados na Universidade Federal de Mato Grosso do Sul.
 - 💼 Engenheira de Dados no IDG/Museu do Amanhã.
-- 🌱 Aprendendo mais sobre IBM Watson, Gen AI e ElasticSearch.
+- 🌱 Estudando estatística e visão computacional
 
 ## Skills
 
