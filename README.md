@@ -11,7 +11,7 @@
 ![SQL](https://img.icons8.com/?size=100&id=13406&format=png&color=000000)
 ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
 ![GCP](https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000)
-![Big Query]()
+![Docker](https://img.icons8.com/?size=100&id=zFAYIdFZlGxP&format=png&color=000000)
 ![Azure](https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000)
 ![Power BI](https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000)
 ![Looker](https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000)
