@@ -4,7 +4,7 @@
 - 💼 Engenheira de Dados no Museu do Amanhã.
 - 🎓 Pós-Graduada em Engenharia de Dados / Cursando graduação em Ciência de Dados na Universidade Federal de Mato Grosso do Sul / Graduada em Análise e Desenvolvimento de Sistemas.
 - ✅ Entrei na área de dados em 2022 como estagiária na Globo.
-- 🌱 Estudando estatística e Microsoft SQL Server
+- 🌱 Estudando Microsoft SQL Server
 
 ## Habilidades técnicas
 
