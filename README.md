@@ -47,7 +47,7 @@
 <a href="https://www.credly.com/earner/earned/badge/dbaac548-1fe3-42ff-abd3-c4cceb217b11"><img src="https://images.credly.com/size/340x340/images/c5d44d75-9370-43fa-92a6-63e48bb6564f/62056_badges_EducationTraining_Learn_Programming.png" alt="badge ai-900" width="150px" text-align="center"> 
 
 
-## 🏆 Projetos
+## 🏆 Projetos Profissionais
 📌<a href="https://www.linkedin.com/feed/update/urn:li:activity:7258154689744044032/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7258154689744044032%29" target="_blank"> Projeto Robô Ma.IA - Museu do Amanhã </a>
 <br>
 📌<a href="https://www.terra.com.br/byte/ibm-e-museu-do-amanha-lancam-experiencia-pioneira-em-inteligencia-artificial,4ac8812bf6a487397ce7d67cfdd04a698wvjj4r4.html#google_vignette" target="_blank"> Projeto IRIS+ - Museu do Amanhã </a>
