@@ -1,10 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=chandrasantos&color=006bed)
 
 ## Hello, World!
-- 💼 Engenheira de Dados no Museu do Amanhã.
+- 💼 Engenheira de Dados Pleno na Firjan.
 - 🎓 Pós-Graduada em Engenharia de Dados / Cursando graduação em Ciência de Dados na Universidade Federal de Mato Grosso do Sul / Graduada em Análise e Desenvolvimento de Sistemas.
 - ✅ Entrei na área de dados em 2022 como estagiária na Globo.
-- 🌱 Estudando Microsoft SQL Server
+- ✅ Atuei cerca de 2 anos como Engenheira de Dados com foco em Big Data/GCP no Museu do Amanhã.
+- 🌱 Estudando Microsoft SQL Server e Microsoft Integration Services.
 
 ## Habilidades técnicas
 
